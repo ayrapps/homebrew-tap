@@ -3,8 +3,8 @@
 # (two-space indent, this word order). Everything here is public: English only.
 
 cask "pina-viewer" do
-  version "1.0.0"
-  sha256 "4fcc8f4a64ba22125b06b34adc5453754a2a6641b5d5f54db15604545f2fe8b8"
+  version "1.0.1"
+  sha256 "4e996d97d937abbc85b088fa639bdc40d1596b87e029e3c9187f7adcea965c04"
 
   url "https://github.com/lynthey/pina-viewer/releases/download/v#{version}/PinaViewer-#{version}.zip"
   name "Pina Viewer"
