@@ -11,7 +11,7 @@ cask "pina-viewer" do
   desc "Keyboard-driven comic and image viewer for zip, cbz, rar, cbr and image folders"
   homepage "https://github.com/lynthey/pina-viewer"
 
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "Pina Viewer.app"
 
