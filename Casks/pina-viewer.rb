@@ -9,7 +9,7 @@ cask "pina-viewer" do
   url "https://github.com/ayrapps/pina-viewer/releases/download/v#{version}/PinaViewer-#{version}.zip"
   name "Pina Viewer"
   desc "Keyboard-driven comic and image viewer for zip, cbz, rar, cbr and image folders"
-  homepage "https://github.com/ayrapps/pina-viewer"
+  homepage "https://ayrapps.github.io/pina-viewer/"
 
   depends_on macos: :ventura
 
